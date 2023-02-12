@@ -1,1 +1,2 @@
 sample text added from development branch
+some text added in the phase 2 branch
